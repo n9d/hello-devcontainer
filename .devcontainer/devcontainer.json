@@ -1,11 +1,6 @@
 {
     "name": "hello-devcontainer",
-    "dockerComposeFile": [
-        "../docker-compose.yml"
-    ],
+    "dockerComposeFile": ["../docker-compose.yml"],
     "service": "srv",
-    "workspaceFolder": "/",
-    "extensions" : [
-    ]
+    "workspaceFolder": "/"
 }
-
